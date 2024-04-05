@@ -10,6 +10,6 @@ The Colab Link :
 https://colab.research.google.com/drive/1_DZ-8jlqG4c89UgVv-xEg1hWhYnQfRea?usp=sharing
 
 Name: Sachin.S
-  || Anna Univercity  || Reg No : 953621243046
+  || Reg No : 953621243046
  ||  Clg : Ramco Institute of Technology
 
